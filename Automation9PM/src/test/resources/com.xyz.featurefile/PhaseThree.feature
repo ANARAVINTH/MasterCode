@@ -1,7 +1,7 @@
 Feature: Sample
 
-  Background: //prerequist
-    Given User naviagte to URL
+  Background:
+    Given User launches
 
   @Dynamic
   Scenario: Dynamic Drop
